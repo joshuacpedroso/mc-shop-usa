@@ -1,0 +1,36 @@
+{
+    "order_number": "MC-20260424231318-8400",
+    "status": "stripe_error",
+    "payment_status": "pending",
+    "stripe_session_id": null,
+    "created_at": "2026-04-24T23:13:18+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Joshua de Castro",
+        "last_name": "Pinho Pedroso",
+        "name": "Joshua de Castro Pinho Pedroso",
+        "email": "joshuacpedroso@icloud.com",
+        "phone": "53991411887",
+        "address": "Avenida Presidente Vargas",
+        "city": "Rio Grande",
+        "state": "RS",
+        "zip": "96202-336"
+    },
+    "items": [
+        {
+            "id": 1,
+            "name": "Mexico 2026",
+            "cat": "shirt",
+            "price": 0.1000000000000000055511151231257827021181583404541015625,
+            "qty": 1,
+            "country": "Mexico",
+            "size": "M",
+            "image": "https://jerseyloco.com/wp-content/uploads/2025/11/2026-mexico-home-jersey.webp",
+            "tags": [],
+            "subtotal": 0.1000000000000000055511151231257827021181583404541015625
+        }
+    ],
+    "currency": "usd",
+    "total": 0.1000000000000000055511151231257827021181583404541015625,
+    "error": "The Checkout Session's total amount due must add up to at least $0.50 usd"
+}

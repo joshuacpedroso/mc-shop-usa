@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260524144247-2931",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_a1Bgo3D1v89zveDel3t6tLP16zptYJX98pVQL56a7En8dB2X5bHBZMPWj3",
+    "created_at": "2026-05-24T14:42:47+00:00",
+    "paid_at": "2026-05-24T14:43:41+00:00",
+    "customer": {
+        "first_name": "Ademilson",
+        "last_name": "Patente",
+        "name": "Ademilson Patente",
+        "email": "batinga87@hotmail.com",
+        "phone": "2014911780",
+        "address": "453 Columbia Ave",
+        "city": "Cliffside Park",
+        "state": "New Jersey",
+        "zip": "07010"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "M",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

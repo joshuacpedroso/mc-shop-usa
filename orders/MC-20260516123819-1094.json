@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260516123819-1094",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_a1QyhWCcydPLu7IkXGu6G4DCVlwD82CqLUR0SeXGTOEQEI21RI4Y9hEi7k",
+    "created_at": "2026-05-16T12:38:19+00:00",
+    "paid_at": "2026-05-16T12:40:25+00:00",
+    "customer": {
+        "first_name": "Henrique",
+        "last_name": "Caetano",
+        "name": "Henrique Caetano",
+        "email": "jmcrh@hotmail.com",
+        "phone": "",
+        "address": "310 Kingsland Ave",
+        "city": "Harrison",
+        "state": "NJ",
+        "zip": "07029"
+    },
+    "items": [
+        {
+            "id": 53,
+            "name": "Brazil Cap",
+            "cat": "hat",
+            "price": 19.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "M",
+            "image": "img/bones/2.jpg",
+            "tags": [],
+            "subtotal": 19.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 19.89999999999999857891452847979962825775146484375
+}

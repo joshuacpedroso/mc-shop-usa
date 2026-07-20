@@ -1,0 +1,59 @@
+{
+    "order_number": "MC-20260717152438-5685",
+    "status": "pending_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_b1OgEeN47xXCGIr55FQ8RQjzS64mzBEgv96SYewEXZD6zGbnvl0GvsKO6c",
+    "created_at": "2026-07-17T15:24:38+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "agenor",
+        "last_name": "martins filho",
+        "name": "agenor martins filho",
+        "email": "agenor@voarbem.com",
+        "phone": "7328618003",
+        "address": "4 colonia dr",
+        "city": "long branch",
+        "state": "nj",
+        "zip": "07740"
+    },
+    "items": [
+        {
+            "id": 53,
+            "name": "Brazil Cap",
+            "cat": "hat",
+            "price": 14.9000000000000003552713678800500929355621337890625,
+            "qty": 50,
+            "country": "Brazil",
+            "size": "",
+            "image": "img/bones/2.jpg",
+            "tags": [],
+            "subtotal": 745
+        },
+        {
+            "id": 65,
+            "name": "Usa Cap 1",
+            "cat": "hat",
+            "price": 14.9000000000000003552713678800500929355621337890625,
+            "qty": 50,
+            "country": "Usa",
+            "size": "",
+            "image": "img/bones/cap-5.png",
+            "tags": [],
+            "subtotal": 745
+        },
+        {
+            "id": 67,
+            "name": "Usa Cap 2",
+            "cat": "hat",
+            "price": 14.9000000000000003552713678800500929355621337890625,
+            "qty": 18,
+            "country": "Usa",
+            "size": "",
+            "image": "img/bones/cap-6.png",
+            "tags": [],
+            "subtotal": 268.19999999999998863131622783839702606201171875
+        }
+    ],
+    "currency": "usd",
+    "total": 1758.200000000000045474735088646411895751953125
+}

@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260511230405-4955",
+    "status": "pending_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a1qzgrVll3RDaRmtK8diVNwVYYlVy0J11m5q6muNBXK1kzGEwG1VUlUwP8",
+    "created_at": "2026-05-11T23:04:05+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Jonadito",
+        "last_name": "Oicose",
+        "name": "Jonadito Oicose",
+        "email": "jonerirapai@gmail.com",
+        "phone": "8482273622",
+        "address": "35 Eatontown rs",
+        "city": "Eatontown",
+        "state": "NEW JERSEY",
+        "zip": "07740"
+    },
+    "items": [
+        {
+            "id": 1,
+            "name": "Mexico 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 25,
+            "country": "Mexico",
+            "size": "M",
+            "image": "img/mex-f.jpg",
+            "tags": [],
+            "subtotal": 872.5
+        }
+    ],
+    "currency": "usd",
+    "total": 872.5
+}

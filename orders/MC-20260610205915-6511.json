@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260610205915-6511",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_a1gjylZDup8NJbeVIQXshouKFE5HEoSXju8psjQcw7pkyEYOXMoPTDkO30",
+    "created_at": "2026-06-10T20:59:15+00:00",
+    "paid_at": "2026-06-10T21:02:05+00:00",
+    "customer": {
+        "first_name": "Dirce",
+        "last_name": "Freitas",
+        "name": "Dirce Freitas",
+        "email": "jmcrhcaetano@gmail.com",
+        "phone": "",
+        "address": "78 Clearview Dr",
+        "city": "Saint Augustine",
+        "state": "FL",
+        "zip": "32092"
+    },
+    "items": [
+        {
+            "id": 4,
+            "name": "Brazil Blue 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 2,
+            "country": "Brazil",
+            "size": "L",
+            "image": "img/brblue-f.jpeg",
+            "tags": [],
+            "subtotal": 69.7999999999999971578290569595992565155029296875
+        }
+    ],
+    "currency": "usd",
+    "total": 69.7999999999999971578290569595992565155029296875
+}

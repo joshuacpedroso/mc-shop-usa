@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260526035612-1139",
+    "status": "pending_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a1xE0CMsq0eKeJIMQeZvF5jUsWgh37bPXPkSBZU0v4gpRwtcotDac6EcjB",
+    "created_at": "2026-05-26T03:56:12+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Livia",
+        "last_name": "Do Santos Silva",
+        "name": "Livia Do Santos Silva",
+        "email": "evienanda31@gmail.com",
+        "phone": "(848) 466-4507",
+        "address": "283 Poole Ave",
+        "city": "Long Branch",
+        "state": "New Jersey",
+        "zip": "07740"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "L",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

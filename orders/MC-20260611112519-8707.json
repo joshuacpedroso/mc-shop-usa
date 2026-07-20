@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260611112519-8707",
+    "status": "cancelled_before_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a1fG2co4rtnH78V0si8Atx28inAUlEzBL0Gt7kOxaBmhbfmUIRMhYeggIV",
+    "created_at": "2026-06-11T11:25:19+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Barbara",
+        "last_name": "Bartlett",
+        "name": "Barbara Bartlett",
+        "email": "bcleyva@gmail.com",
+        "phone": "9085656739",
+        "address": "476 Bellis Rd",
+        "city": "Bloomsbury",
+        "state": "NJ",
+        "zip": "08804"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "M",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

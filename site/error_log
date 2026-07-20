@@ -1,0 +1,35 @@
+[09-Apr-2026 01:27:16 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mcshopus/public_html/site/checkout.php on line 3
+[09-Apr-2026 01:27:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mcshopus/public_html/site/checkout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mcshopus/public_html/site/checkout.php on line 3
+[09-Apr-2026 01:30:11 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:11 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:11 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:11 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:21 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 28
+[09-Apr-2026 01:30:21 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 28
+[09-Apr-2026 01:30:21 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:21 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:21 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:21 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:23 UTC] PHP Warning:  Undefined array key "date" in /home/mcshopus/public_html/site/index.php on line 32
+[09-Apr-2026 01:30:23 UTC] PHP Warning:  Undefined array key "date" in /home/mcshopus/public_html/site/index.php on line 32
+[09-Apr-2026 01:30:23 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:23 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:23 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:23 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:25 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 23
+[09-Apr-2026 01:30:25 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 23
+[09-Apr-2026 01:30:27 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 24
+[09-Apr-2026 01:30:27 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 24
+[09-Apr-2026 01:30:30 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 28
+[09-Apr-2026 01:30:30 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 28
+[09-Apr-2026 01:30:30 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:30 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:30 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:30 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:33 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:33 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93
+[09-Apr-2026 01:30:33 UTC] PHP Warning:  Undefined array key "sales" in /home/mcshopus/public_html/site/index.php on line 88
+[09-Apr-2026 01:30:33 UTC] PHP Warning:  Undefined array key "cat" in /home/mcshopus/public_html/site/index.php on line 93

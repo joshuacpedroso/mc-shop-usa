@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260513192945-2718",
+    "status": "pending_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a1LzlsEni8joB4X2QTyg7EoYMNJIzGjXyEizj1ZOshM5O71UIGjocmcFh9",
+    "created_at": "2026-05-13T19:29:45+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Joshua",
+        "last_name": "Pedroso",
+        "name": "Joshua Pedroso",
+        "email": "joshai0castro@gmail.com",
+        "phone": "5391411887",
+        "address": "R. Cachoeira do Iguaçu, 463",
+        "city": "Rio Grande, RA",
+        "state": "RS BRASIL",
+        "zip": "96212070"
+    },
+    "items": [
+        {
+            "id": 5,
+            "name": "Argentina 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Argentina",
+            "size": "M",
+            "image": "img/argentina-f.jpeg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

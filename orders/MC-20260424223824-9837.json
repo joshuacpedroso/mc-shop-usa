@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260424223824-9837",
+    "status": "pending_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a1ZEv7dZgms3Mu5aWiEaRmZmo1F3tkhrZutQrz5l0XT7mDf7GRwkpGjOrb",
+    "created_at": "2026-04-24T22:38:24+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Willian",
+        "last_name": "M Toffol",
+        "name": "Willian M Toffol",
+        "email": "amanda.n.and360@gmail.com",
+        "phone": "53992047754",
+        "address": "Av. Pref. Waldemar Grubba",
+        "city": "Jaraguá do Sul",
+        "state": "SC",
+        "zip": "89256-501"
+    },
+    "items": [
+        {
+            "id": 1,
+            "name": "Mexico 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 3,
+            "country": "Mexico",
+            "size": "XL",
+            "image": "https://jerseyloco.com/wp-content/uploads/2025/11/2026-mexico-home-jersey.webp",
+            "tags": [],
+            "subtotal": 104.69999999999998863131622783839702606201171875
+        }
+    ],
+    "currency": "usd",
+    "total": 104.69999999999998863131622783839702606201171875
+}

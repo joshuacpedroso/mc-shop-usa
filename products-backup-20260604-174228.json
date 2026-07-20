@@ -1,0 +1,1150 @@
+[
+    {
+        "id": 1,
+        "name": "Mexico 2026",
+        "country": "Mexico",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 98,
+        "available": true,
+        "image": "img/mex-f.jpg",
+        "backImage": "img/mex-t.jpg",
+        "tags": [
+            "mexico",
+            "home",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 5,
+            "M": 5,
+            "L": 20,
+            "XL": 20,
+            "XXL": 10
+        }
+    },
+    {
+        "id": 2,
+        "name": "Colombia 2026",
+        "country": "Colombia",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 94,
+        "available": true,
+        "image": "img/colombia-f.jpeg",
+        "backImage": "img/colombia-v.jpeg",
+        "tags": [
+            "colombia",
+            "home",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 4,
+        "name": "Brazil Blue 2026",
+        "country": "Brazil",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 87,
+        "available": true,
+        "image": "img/brblue-f.jpeg",
+        "backImage": "img/brblue-v.jpeg",
+        "tags": [
+            "brazil",
+            "special",
+            "edition",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 0,
+            "M": 19,
+            "L": 27,
+            "XL": 18,
+            "XXL": 9
+        }
+    },
+    {
+        "id": 64,
+        "name": "Brazil Yellow 2026",
+        "country": "Brazil",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 0,
+        "available": true,
+        "image": "img/bryellow-f.jpg",
+        "backImage": "img/bryellow-v.jpg",
+        "tags": [
+            "brazil",
+            "yellow",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 9,
+            "M": 19,
+            "L": 24,
+            "XL": 28,
+            "XXL": 31
+        }
+    },
+    {
+        "id": 5,
+        "name": "Argentina 2026",
+        "country": "Argentina",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 97,
+        "available": true,
+        "image": "img/argentina-f.jpeg",
+        "backImage": "img/argentina-v.jpeg",
+        "tags": [
+            "argentina",
+            "home",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 7,
+        "name": "Germany 2026",
+        "country": "Germany",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 90,
+        "available": true,
+        "image": "img/alemanha-f.jpeg",
+        "backImage": "img/alemanha-v.jpeg",
+        "tags": [
+            "germany",
+            "home",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 6,
+        "name": "Italy 2026",
+        "country": "Italy",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 91,
+        "available": true,
+        "image": "img/italia-f.jpeg",
+        "backImage": "img/italia-v.jpeg",
+        "tags": [
+            "italy",
+            "home",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 8,
+        "name": "Spain 2026",
+        "country": "Spain",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 88,
+        "available": true,
+        "image": "img/espanha-f.jpeg",
+        "backImage": "img/espanha-v.jpeg",
+        "tags": [
+            "spain",
+            "home",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 11,
+        "name": "Canada 2026",
+        "country": "Canada",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/canada-f.jpg",
+        "backImage": "img/canada-t.jpg",
+        "tags": [
+            "canada",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 5,
+            "M": 5,
+            "L": 20,
+            "XL": 20,
+            "XXL": 10
+        }
+    },
+    {
+        "id": 12,
+        "name": "USA 2026",
+        "country": "USA",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/usa-f.jpg",
+        "backImage": "img/usa-v.jpg",
+        "tags": [
+            "usa",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 9,
+            "M": 20,
+            "L": 28,
+            "XL": 29,
+            "XXL": 29
+        }
+    },
+    {
+        "id": 14,
+        "name": "Australia 2026",
+        "country": "Australia",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/australia-f.jpg",
+        "backImage": "img/australia-v.jpg",
+        "tags": [
+            "australia",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 16,
+        "name": "Belgium 2026",
+        "country": "Belgium",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/belgica-f.jpg",
+        "backImage": "img/belgica-v.jpg",
+        "tags": [
+            "belgium",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 24,
+        "name": "Ecuador 2026",
+        "country": "Ecuador",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/equador-f.jpg",
+        "backImage": "img/equador-v.jpg",
+        "tags": [
+            "ecuador",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 25,
+        "name": "Egypt 2026",
+        "country": "Egypt",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/egito-f.jpg",
+        "backImage": "img/egito-t.jpg",
+        "tags": [
+            "egypt",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 26,
+        "name": "England 2026",
+        "country": "England",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/inglaterra-f.jpg",
+        "backImage": "img/inglaterra-v.jpg",
+        "tags": [
+            "england",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 27,
+        "name": "France 2026",
+        "country": "France",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/fra-f.jpg",
+        "backImage": "img/fra-v.jpg",
+        "tags": [
+            "france",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 35,
+        "name": "Netherlands 2026",
+        "country": "Netherlands",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/holanda-f.jpg",
+        "backImage": "img/holanda-v.jpg",
+        "tags": [
+            "netherlands",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 37,
+        "name": "Norway 2026",
+        "country": "Norway",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/noruega-f.jpg",
+        "backImage": "img/noruega-v.jpg",
+        "tags": [
+            "norway",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 39,
+        "name": "Paraguay 2026",
+        "country": "Paraguay",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/paraguay-f.jpg",
+        "backImage": "img/paraguay-t.jpg",
+        "tags": [
+            "paraguay",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 40,
+        "name": "Portugal 2026",
+        "country": "Portugal",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/portugal-f.jpg",
+        "backImage": "img/portugal-v.jpg",
+        "tags": [
+            "portugal",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 43,
+        "name": "Scotland 2026",
+        "country": "Scotland",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/escocia-f.jpg",
+        "backImage": "img/escocia-v.jpg",
+        "tags": [
+            "scotland",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 47,
+        "name": "Switzerland 2026",
+        "country": "Switzerland",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/suica-f.jpg",
+        "backImage": "img/suica-v.jpg",
+        "tags": [
+            "switzerland",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 50,
+        "name": "Uruguay 2026",
+        "country": "Uruguay",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/uruguay-f.jpg",
+        "backImage": "img/uruguay-v.jpg",
+        "tags": [
+            "uruguay",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 63,
+        "name": "Greece 2026",
+        "country": "Greece",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": true,
+        "image": "img/grecia-f.jpg",
+        "backImage": "img/grecia-v.jpg",
+        "tags": [
+            "greece",
+            "world cup",
+            "2026",
+            "jersey"
+        ],
+        "sizes": {
+            "S": 3,
+            "M": 4,
+            "L": 7,
+            "XL": 7,
+            "XXL": 4
+        }
+    },
+    {
+        "id": 65,
+        "name": "Usa Cap 1",
+        "country": "Usa",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/cap-5.png",
+        "tags": [
+            "hat",
+            "cap",
+            "usa"
+        ],
+        "stock": 49
+    },
+    {
+        "id": 67,
+        "name": "Usa Cap 2",
+        "country": "Usa",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/cap-6.png",
+        "tags": [
+            "hat",
+            "cap",
+            "usa"
+        ],
+        "stock": 49
+    },
+    {
+        "id": 52,
+        "name": "France Cap",
+        "country": "France",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/1.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "france"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 53,
+        "name": "Brazil Cap",
+        "country": "Brazil",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/2.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "brazil"
+        ],
+        "stock": 99
+    },
+    {
+        "id": 54,
+        "name": "Germany Cap",
+        "country": "Germany",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/3.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "germany"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 55,
+        "name": "Italy Cap",
+        "country": "Italy",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/4.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "italy"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 56,
+        "name": "Argentina Cap",
+        "country": "Argentina",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/5.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "argentina"
+        ],
+        "stock": 11
+    },
+    {
+        "id": 57,
+        "name": "Spain Cap",
+        "country": "Spain",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/6.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "spain"
+        ],
+        "stock": 11
+    },
+    {
+        "id": 58,
+        "name": "England Cap",
+        "country": "England",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/7.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "england"
+        ],
+        "stock": 11
+    },
+    {
+        "id": 59,
+        "name": "Portugal Cap",
+        "country": "Portugal",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": true,
+        "image": "img/bones/8.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "portugal"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 60,
+        "name": "World Cup 2026 Black Cap",
+        "country": "World",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": false,
+        "image": "img/bones/9.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "world cup",
+            "black",
+            "2026"
+        ],
+        "stock": 0
+    },
+    {
+        "id": 61,
+        "name": "World Cup 2026 Green Cap",
+        "country": "World",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": false,
+        "image": "img/bones/10.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "world cup",
+            "green",
+            "2026"
+        ],
+        "stock": 0
+    },
+    {
+        "id": 62,
+        "name": "World Cup 2026 White Cap",
+        "country": "World",
+        "cat": "hat",
+        "price": 14.9000000000000003552713678800500929355621337890625,
+        "sales": 0,
+        "available": false,
+        "image": "img/bones/11.jpg",
+        "tags": [
+            "hat",
+            "cap",
+            "world cup",
+            "white",
+            "2026"
+        ],
+        "stock": 0
+    },
+    {
+        "id": 13,
+        "name": "Algeria 2026",
+        "country": "Algeria",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "algeria",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Bosnia-Herzegovina 2026",
+        "country": "Bosnia-Herzegovina",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "bosnia",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Cabo Verde 2026",
+        "country": "Cabo Verde",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "cabo verde",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Congo DR 2026",
+        "country": "Congo DR",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "congo dr",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Curaçao 2026",
+        "country": "Curaçao",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "curacao",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Czechia 2026",
+        "country": "Czechia",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "czechia",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Côte d'Ivoire 2026",
+        "country": "Côte d'Ivoire",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "ivory coast",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Ghana 2026",
+        "country": "Ghana",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "ghana",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Haiti 2026",
+        "country": "Haiti",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "haiti",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "IR Iran 2026",
+        "country": "IR Iran",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "iran",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Iraq 2026",
+        "country": "Iraq",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "iraq",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Jordan 2026",
+        "country": "Jordan",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "jordan",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Korea Republic 2026",
+        "country": "Korea Republic",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "korea republic",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "New Zealand 2026",
+        "country": "New Zealand",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "new zealand",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Panama 2026",
+        "country": "Panama",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "panama",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Qatar 2026",
+        "country": "Qatar",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "qatar",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Saudi Arabia 2026",
+        "country": "Saudi Arabia",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "saudi arabia",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Senegal 2026",
+        "country": "Senegal",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "senegal",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "South Africa 2026",
+        "country": "South Africa",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "south africa",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Sweden 2026",
+        "country": "Sweden",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "sweden",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Türkiye 2026",
+        "country": "Türkiye",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "turkiye",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Uzbekistan 2026",
+        "country": "Uzbekistan",
+        "cat": "shirt",
+        "price": 34.89999999999999857891452847979962825775146484375,
+        "sales": 70,
+        "available": false,
+        "image": "",
+        "tags": [
+            "uzbekistan",
+            "world cup",
+            "2026",
+            "jersey"
+        ]
+    }
+]

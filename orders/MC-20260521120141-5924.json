@@ -1,0 +1,47 @@
+{
+    "order_number": "MC-20260521120141-5924",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_b1soPzQsXBCQUqzyQH55p8IlRXSj3zGmqRApux7YMMUXydwhm7DTIKdMMI",
+    "created_at": "2026-05-21T12:01:41+00:00",
+    "paid_at": "2026-05-21T12:03:31+00:00",
+    "customer": {
+        "first_name": "Graziano",
+        "last_name": "Maia",
+        "name": "Graziano Maia",
+        "email": "maiagraziano@yahoo.com",
+        "phone": "9732643878",
+        "address": "2795 Spruce",
+        "city": "Union",
+        "state": "NJ",
+        "zip": "07083"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 2,
+            "country": "Brazil",
+            "size": "XL",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 69.7999999999999971578290569595992565155029296875
+        },
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "L",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 104.69999999999998863131622783839702606201171875
+}

@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260625232647-1917",
+    "status": "cancelled_before_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a151O0ug8S91Pvvcc9OCbHTLs8OOpWZ1klfZcBfzI0rzv9EqyBRaE8MSLm",
+    "created_at": "2026-06-25T23:26:47+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "josiel",
+        "last_name": "barradas",
+        "name": "josiel barradas",
+        "email": "josielbarradasjb2019@gmail.com",
+        "phone": "(86) 99964-6444",
+        "address": "casimiro barradas",
+        "city": "agricolandia",
+        "state": "piaui",
+        "zip": "64440000"
+    },
+    "items": [
+        {
+            "id": 7897897,
+            "name": "Japan 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Japan",
+            "size": "S",
+            "image": "img/jap-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

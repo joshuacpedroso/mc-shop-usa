@@ -1,0 +1,59 @@
+{
+    "order_number": "MC-20260610114035-8921",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_b194xtK9Rp9Z4O5SRzB9nxE379pAXJZSGclQD1tk4oYrNUd4Yesy74cfmc",
+    "created_at": "2026-06-10T11:40:35+00:00",
+    "paid_at": "2026-06-10T11:41:25+00:00",
+    "customer": {
+        "first_name": "Izabel",
+        "last_name": "DeMelo",
+        "name": "Izabel DeMelo",
+        "email": "izabeldemelo@hotmail.com",
+        "phone": "9084894548",
+        "address": "4257 Acline Ave",
+        "city": "North Port",
+        "state": "Fl",
+        "zip": "34286"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "M",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        },
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "XL",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        },
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "L",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 104.69999999999998863131622783839702606201171875
+}

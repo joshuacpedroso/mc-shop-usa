@@ -1,0 +1,47 @@
+{
+    "order_number": "MC-20260520225345-8003",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_b1bgovCDUgmQ9ZAy90h4Md5oH0WDenWOqo6GbPqIZR6YDGqUKP7OcQAaXM",
+    "created_at": "2026-05-20T22:53:45+00:00",
+    "paid_at": "2026-05-20T22:55:08+00:00",
+    "customer": {
+        "first_name": "Henrique",
+        "last_name": "Vital Dionisio",
+        "name": "Henrique Vital Dionisio",
+        "email": "henrique.dionisio25@gmail.com",
+        "phone": "7327681323",
+        "address": "1 Lloyd Ave",
+        "city": "West Long Branch",
+        "state": "NJ",
+        "zip": "07764"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "L",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        },
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "XL",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 69.7999999999999971578290569595992565155029296875
+}

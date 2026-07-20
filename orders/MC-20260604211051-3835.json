@@ -1,0 +1,59 @@
+{
+    "order_number": "MC-20260604211051-3835",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_b1LqwktemkRRAX9NtT1WxK8wwdrnCXUCDkJchcV4yJeoCKISUIYeRflCQq",
+    "created_at": "2026-06-04T21:10:51+00:00",
+    "paid_at": "2026-06-04T21:11:48+00:00",
+    "customer": {
+        "first_name": "Leonardo",
+        "last_name": "DeBorba",
+        "name": "Leonardo DeBorba",
+        "email": "leoncontractors@gmail.com",
+        "phone": "+17328650904",
+        "address": "1090 Broadway Suite 104",
+        "city": "W Long Branch",
+        "state": "NJ",
+        "zip": "07764"
+    },
+    "items": [
+        {
+            "id": 40,
+            "name": "Portugal 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Portugal",
+            "size": "M",
+            "image": "img/portugal-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        },
+        {
+            "id": 12,
+            "name": "USA 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "USA",
+            "size": "M",
+            "image": "img/usa-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        },
+        {
+            "id": 4,
+            "name": "Brazil Blue 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "M",
+            "image": "img/brblue-f.jpeg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 104.69999999999998863131622783839702606201171875
+}

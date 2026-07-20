@@ -1,0 +1,47 @@
+{
+    "order_number": "MC-20260704202944-8945",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_b1KaLh0tDwQzEUhM2pOPRc4jXRYhbpKUfmj5r9M5cKwDxqq4DGYipIPgpu",
+    "created_at": "2026-07-04T20:29:44+00:00",
+    "paid_at": "2026-07-04T20:31:43+00:00",
+    "customer": {
+        "first_name": "Andrew",
+        "last_name": "Gomez",
+        "name": "Andrew Gomez",
+        "email": "andrewg0mez@icloud.com",
+        "phone": "9739027142",
+        "address": "300 nth 3rd st",
+        "city": "East Newark",
+        "state": "NJ",
+        "zip": "07029"
+    },
+    "items": [
+        {
+            "id": 12,
+            "name": "USA 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "USA",
+            "size": "L",
+            "image": "img/usa-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        },
+        {
+            "id": 1,
+            "name": "Mexico 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Mexico",
+            "size": "L",
+            "image": "img/mex-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 69.7999999999999971578290569595992565155029296875
+}

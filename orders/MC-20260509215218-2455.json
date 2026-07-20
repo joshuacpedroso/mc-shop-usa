@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260509215218-2455",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_a1L1CrvrRVWhQyjOWFXGm52gjDbxCCas0RNGiD2h3xdmi1kNugMubKLzOq",
+    "created_at": "2026-05-09T21:52:18+00:00",
+    "paid_at": "2026-05-09T21:53:02+00:00",
+    "customer": {
+        "first_name": "Henrique",
+        "last_name": "Caetano",
+        "name": "Henrique Caetano",
+        "email": "jmcrh@hotmail.com",
+        "phone": "",
+        "address": "310 Kingsland Ave",
+        "city": "Harrison",
+        "state": "NJ",
+        "zip": "07029"
+    },
+    "items": [
+        {
+            "id": 5,
+            "name": "Argentina 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Argentina",
+            "size": "M",
+            "image": "img/argentina-f.jpeg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

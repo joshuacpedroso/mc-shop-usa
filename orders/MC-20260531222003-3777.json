@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260531222003-3777",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_a1O1pgJcrMdL39Wv7dWLVkljmdeSavXOHII2PMhkFid07vEjqsP5LpwXWR",
+    "created_at": "2026-05-31T22:20:03+00:00",
+    "paid_at": "2026-05-31T22:30:52+00:00",
+    "customer": {
+        "first_name": "Claudio",
+        "last_name": "Bicalho",
+        "name": "Claudio Bicalho",
+        "email": "claudiobicalho@hotmail.com",
+        "phone": "7326938299",
+        "address": "1631 Holbrook st",
+        "city": "Oakhurst",
+        "state": "NJ",
+        "zip": "07755"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "L",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

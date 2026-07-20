@@ -1,0 +1,35 @@
+{
+    "order_number": "MC-20260612190756-5688",
+    "status": "pending_payment",
+    "payment_status": "pending",
+    "stripe_session_id": "cs_live_a19UorZ9Wb5rw866ixdzG9iccIHInvcHcajrfoJzr9L3tHhd3wFyGNjvzW",
+    "created_at": "2026-06-12T19:07:56+00:00",
+    "paid_at": null,
+    "customer": {
+        "first_name": "Ines",
+        "last_name": "Brito",
+        "name": "Ines Brito",
+        "email": "inesamudio@gmail.com",
+        "phone": "7327680237",
+        "address": "109 long branch avenue",
+        "city": "Long branch",
+        "state": "New jersey",
+        "zip": "07740"
+    },
+    "items": [
+        {
+            "id": 64,
+            "name": "Brazil Yellow 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 1,
+            "country": "Brazil",
+            "size": "XL",
+            "image": "img/bryellow-f.jpg",
+            "tags": [],
+            "subtotal": 34.89999999999999857891452847979962825775146484375
+        }
+    ],
+    "currency": "usd",
+    "total": 34.89999999999999857891452847979962825775146484375
+}

@@ -1,0 +1,47 @@
+{
+    "order_number": "MC-20260604172744-1916",
+    "status": "paid",
+    "payment_status": "paid",
+    "stripe_session_id": "cs_live_b1tZjKxYVTpPvpWSlCQEBkIAGpvKJZaIfwJ2rEKdYXuaESElnwtFhuXlJ8",
+    "created_at": "2026-06-04T17:27:44+00:00",
+    "paid_at": "2026-06-04T17:28:19+00:00",
+    "customer": {
+        "first_name": "Luciana",
+        "last_name": "Alves",
+        "name": "Luciana Alves",
+        "email": "lucianabe2005@gmail.com",
+        "phone": "7323379666",
+        "address": "27 Brook st",
+        "city": "Tinton Falls",
+        "state": "NJ",
+        "zip": "07712"
+    },
+    "items": [
+        {
+            "id": 4,
+            "name": "Brazil Blue 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 2,
+            "country": "Brazil",
+            "size": "S",
+            "image": "img/brblue-f.jpeg",
+            "tags": [],
+            "subtotal": 69.7999999999999971578290569595992565155029296875
+        },
+        {
+            "id": 4,
+            "name": "Brazil Blue 2026",
+            "cat": "shirt",
+            "price": 34.89999999999999857891452847979962825775146484375,
+            "qty": 2,
+            "country": "Brazil",
+            "size": "M",
+            "image": "img/brblue-f.jpeg",
+            "tags": [],
+            "subtotal": 69.7999999999999971578290569595992565155029296875
+        }
+    ],
+    "currency": "usd",
+    "total": 139.599999999999994315658113919198513031005859375
+}

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MC SHOP USA</title>
+  <meta name="description" content="World Cup 2026 collection - jerseys and hats" />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@700&family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="pb-20">
+
+  <nav class="sticky top-0 z-[100] glass px-6 py-4">
+    <div class="max-w-7xl mx-auto flex flex-wrap gap-4 justify-between items-center">
+      <h1 id="brandHomeBtn" class="text-xl font-black italic tracking-tighter uppercase notranslate cursor-pointer">
+        MC SHOP <span class="text-blue-500 font-normal">USA</span>
+      </h1>
+
+      <form id="searchForm" class="hidden md:flex relative w-72">
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Search..."
+          class="w-full bg-white/5 border border-white/10 rounded-full py-1.5 px-8 text-sm focus:border-blue-500 outline-none"
+        >
+        <span class="absolute left-2.5 top-2 text-gray-500 text-xs">🔍</span>
+      </form>
+
+      <div class="flex gap-3 items-center">
+        <div class="language-flags notranslate">
+          <button type="button" class="flag-btn active" data-lang="en" title="English" aria-label="English">🇺🇸</button>
+          <button type="button" class="flag-btn" data-lang="pt" title="Português" aria-label="Português">🇧🇷</button>
+          <button type="button" class="flag-btn" data-lang="es" title="Español" aria-label="Español">🇪🇸</button>
+        </div>
+
+        <div id="google_translate_element"></div>
+
+        <button id="cartToggleBtn" type="button" class="relative bg-white/10 p-2.5 rounded-lg hover:bg-blue-600 transition text-xs">
+          🛒
+          <span id="cartCountBadge" class="cart-badge hidden">0</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <section id="searchResultsSection" class="max-w-7xl mx-auto p-8 mt-10 hidden">
+      <div class="flex flex-wrap items-center justify-between gap-4 mb-8">
+        <h2 class="text-3xl font-black uppercase italic">
+          Results for: <span id="searchTermLabel" class="text-blue-500"></span>
+        </h2>
+
+        <button
+          id="backHomeBtn"
+          type="button"
+          class="bg-white/10 hover:bg-blue-600 transition px-5 py-2 rounded-full text-xs font-black uppercase"
+        >
+          Back to Home
+        </button>
+      </div>
+
+      <div id="searchResultsGrid" class="grid grid-cols-2 md:grid-cols-5 gap-4"></div>
+    </section>
+
+    <div id="defaultSections">
+      <header class="hero-section h-[70vh] flex flex-col items-center justify-center text-center px-4 relative overflow-hidden">
+        <div class="hero-bg">
+          <span class="hero-ring hero-ring-1"></span>
+          <span class="hero-ring hero-ring-2"></span>
+          <span class="hero-ring hero-ring-3"></span>
+
+          <span class="hero-line hero-line-1"></span>
+          <span class="hero-line hero-line-2"></span>
+          <span class="hero-line hero-line-3"></span>
+
+          <span class="hero-ball hero-ball-1"></span>
+          <span class="hero-ball hero-ball-2"></span>
+        </div>
+
+        <p class="text-blue-500 font-black tracking-[0.3em] text-xs mb-4 uppercase relative z-10">
+          MC SHOP USA EXCLUSIVE COLLECTION
+        </p>
+        <h2 class="text-6xl md:text-9xl font-title leading-none mb-6 neon-text relative z-10">
+          WORLD CUP 2026
+        </h2>
+        <div class="flex gap-4 relative z-10 flex-wrap justify-center">
+          <a href="#shirts" class="bg-white text-black px-8 py-3 rounded-full font-black text-xs uppercase hover:bg-blue-500 hover:text-white transition">
+            Shop Shirts
+          </a>
+          <a href="#hats" class="glass px-8 py-3 rounded-full font-black text-xs uppercase hover:border-white transition">
+            Shop Hats
+          </a>
+        </div>
+      </header>
+
+      <section class="max-w-7xl mx-auto p-8 border-t border-white/5">
+        <div class="flex justify-between items-end mb-8">
+          <div>
+            <span class="text-blue-500 font-bold text-xs uppercase tracking-widest">Top Performance</span>
+            <h2 class="text-4xl font-black italic uppercase tracking-tighter">Best Sellers</h2>
+          </div>
+        </div>
+        <div id="bestSellersGrid" class="grid grid-cols-2 md:grid-cols-5 gap-4"></div>
+      </section>
+
+      <section id="shirts" class="max-w-7xl mx-auto p-8 mt-12">
+        <div class="flex justify-between items-end mb-8">
+          <h2 class="text-4xl font-black uppercase italic tracking-tighter">Shirts</h2>
+          <button type="button" id="seeAllShirtsBtn" class="text-xs font-bold text-blue-500 border-b border-blue-500 pb-1">
+            See All
+          </button>
+        </div>
+        <div id="shirtsGrid" class="grid grid-cols-2 md:grid-cols-5 gap-4"></div>
+      </section>
+
+      <section id="hats" class="max-w-7xl mx-auto p-8 mt-12">
+        <div class="flex justify-between items-end mb-8">
+          <h2 class="text-4xl font-black uppercase italic tracking-tighter">Hats</h2>
+          <button type="button" id="seeAllHatsBtn" class="text-xs font-bold text-blue-500 border-b border-blue-500 pb-1">
+            See All
+          </button>
+        </div>
+        <div id="hatsGrid" class="grid grid-cols-2 md:grid-cols-5 gap-4"></div>
+      </section>
+    </div>
+  </main>
+
+  <div id="cartOverlay" class="fixed inset-0 bg-black/60 z-[120] hidden"></div>
+
+  <aside id="cartDrawer" class="fixed top-0 right-0 h-full w-full max-w-md bg-zinc-950 border-l border-white/10 z-[130] transform translate-x-full transition duration-300 flex flex-col">
+    <div class="p-5 border-b border-white/10 flex justify-between items-center">
+      <h2 class="text-xl font-black uppercase">Your Cart</h2>
+      <button id="closeCartBtn" type="button" class="text-white/70 hover:text-white text-2xl leading-none">&times;</button>
+    </div>
+
+    <div id="cartItems" class="flex-1 overflow-y-auto p-5 space-y-4"></div>
+
+    <div class="p-5 border-t border-white/10 space-y-4">
+      <div class="flex justify-between items-center text-lg">
+        <span class="font-bold">Total</span>
+        <span id="cartTotal" class="text-blue-400 font-black">$0.00</span>
+      </div>
+
+      <button id="checkoutBtn" type="button" class="w-full bg-blue-600 hover:bg-blue-500 transition rounded-2xl py-3 font-black uppercase">
+        Checkout
+      </button>
+    </div>
+  </aside>
+
+  <div id="productModal" class="fixed inset-0 z-[150] hidden">
+    <div id="productModalOverlay" class="absolute inset-0 bg-black/70"></div>
+
+    <div class="absolute inset-0 flex items-center justify-center p-4">
+      <div class="glass w-full max-w-4xl rounded-3xl overflow-hidden border border-white/10 relative">
+        <button id="closeModalBtn" type="button" class="absolute top-4 right-4 z-10 bg-black/40 hover:bg-black/70 w-10 h-10 rounded-full text-white text-xl">
+          &times;
+        </button>
+
+        <div class="grid md:grid-cols-2">
+          <div class="bg-zinc-900 min-h-[360px] flex items-center justify-center">
+            <img id="modalImage" src="" alt="" class="w-full h-full object-cover">
+            <div id="modalSoldOutVisual" class="hidden w-full h-full min-h-[360px] sold-out-hero">
+              <span>SOLD OUT</span>
+            </div>
+          </div>
+
+          <div class="p-6 md:p-8">
+            <p id="modalCategory" class="text-blue-500 font-bold text-xs uppercase tracking-widest mb-3"></p>
+            <h3 id="modalTitle" class="text-3xl font-black mb-3"></h3>
+            <p id="modalCountry" class="text-white/60 text-sm mb-4"></p>
+            <p id="modalPrice" class="text-2xl text-blue-400 font-black mb-6"></p>
+
+            <div class="mb-6">
+              <p class="text-xs uppercase tracking-widest text-white/60 mb-3">Choose Size</p>
+              <div id="modalSizes" class="grid grid-cols-5 gap-2"></div>
+            </div>
+
+            <button id="modalAddToCartBtn" type="button" class="w-full bg-white text-black py-3 rounded-2xl font-black uppercase hover:bg-blue-500 hover:text-white transition">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <form id="checkoutForm" action="checkout.php" method="POST" class="hidden">
+    <input type="hidden" name="cart_json" id="checkoutCartInput">
+  </form>
+
+  <script src="app.js"></script>
+  <script>
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement(
+        {
+          pageLanguage: 'en',
+          includedLanguages: 'en,pt,es',
+          autoDisplay: false
+        },
+        'google_translate_element'
+      );
+    }
+  </script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>
