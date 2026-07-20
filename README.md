@@ -215,7 +215,7 @@ This project is available for educational and commercial use unless otherwise sp
 
 **Joshua Pedroso**
 
-Website: https://joshuapedroso.com
+Website: joshai0castro@gmail.com
 
 GitHub: https://github.com/joshuacpedroso
 
